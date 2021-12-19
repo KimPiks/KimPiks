@@ -18,25 +18,25 @@
 <h3 align="left">Skills:</h3>
 
 <li>
-- C#
+C#
 </li>
 <li>
-- ASP.NET
+ASP.NET
   </li>
   <li>
-- xUnit
+xUnit
   </li>
     <li>
-- Continous Integration
+Continous Integration
   </li>
       <li>
-- Dependency Injection
+Dependency Injection
   </li>
         <li>
-- REST
+REST
   </li>
           <li>
-- GIT
+GIT
 </li>
   
 <h3 align="left">Languages and Tools:</h3>
