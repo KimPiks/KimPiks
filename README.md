@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=%F0%9F%92%BB+Fullstack+Developer;%F0%9F%93%9A+Computer+Science+Student;%F0%9F%A4%A9+Open-source+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=false&random=false&width=435&lines=%F0%9F%92%BB+Fullstack+Developer;%F0%9F%93%9A+Computer+Science+Student;%F0%9F%A4%A9+Open-source+enthusiast)](https://git.io/typing-svg)
 
 # 🚀 Tech stack
 <div style="display:flex;">
